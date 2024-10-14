@@ -3,7 +3,7 @@
 #include <stdbool.h>
 #define _CRT_SECURE_NO_WARNINGS
 
-typedef struct TreeNode {
+typedef struct TreeNode  {
     int data;
     struct TreeNode* left;
     struct TreeNode* right;
